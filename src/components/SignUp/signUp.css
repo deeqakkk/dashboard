@@ -1,0 +1,10 @@
+div.signup-wrapper {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+}
+
+.oauth-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
